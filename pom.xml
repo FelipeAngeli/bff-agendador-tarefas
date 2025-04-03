@@ -58,6 +58,13 @@
 			<version>2.6.0</version>
 		</dependency>
 
+<!--		Feign Apache HttpComponents Client 5-->
+		<dependency>
+			<groupId>io.github.openfeign</groupId>
+			<artifactId>feign-hc5</artifactId>
+			<version>13.5</version>
+		</dependency>
+
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
